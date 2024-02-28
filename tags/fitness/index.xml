@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitness&#34; on FitnessFriend</title>
+    <link>https://zain6khan.github.io/hugo-mock-landing-page/tags/fitness/</link>
+    <description>Recent content in Fitness&#34; on FitnessFriend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Zain Khan</copyright>
+    <atom:link href="https://zain6khan.github.io/hugo-mock-landing-page/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FitnessFriend App Overview 🏋️‍♂️🍎</title>
+      <link>https://zain6khan.github.io/hugo-mock-landing-page/page/fitness_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zain6khan.github.io/hugo-mock-landing-page/page/fitness_page/</guid>
+      <description>FitnessFriend App Overview FitnessFriend is designed to revolutionize your health and fitness journey. By leveraging state-of-the-art AI technology, FitnessFriend offers personalized fitness and nutrition plans, real-time workout feedback, and a comprehensive library of wellness resources. Explore the app&amp;rsquo;s capabilities and get ready to achieve your best self.</description>
+    </item>
+  </channel>
+</rss>

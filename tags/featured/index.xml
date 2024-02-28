@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on FitnessFriend</title>
-    <link>https://zain6khan.github.io/hugo-mock-landing-page/page/</link>
-    <description>Recent content in Docs on FitnessFriend</description>
+    <title>Featured on FitnessFriend</title>
+    <link>https://zain6khan.github.io/hugo-mock-landing-page/tags/featured/</link>
+    <description>Recent content in Featured on FitnessFriend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Zain Khan</copyright>
-    <atom:link href="https://zain6khan.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zain6khan.github.io/hugo-mock-landing-page/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FitnessFriend App Overview 🏋️‍♂️🍎</title>
       <link>https://zain6khan.github.io/hugo-mock-landing-page/page/fitness_page/</link>
