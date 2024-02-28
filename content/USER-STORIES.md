@@ -3,13 +3,13 @@ title: "USER STORIES"
 date: 2024-02-20T22:30:47-05:00
 draft: true
 ---
-# User Stories for FitHub
+# User Stories for FitnessFriend
 
-This is a backlog of user stories for FitHub
+This is a backlog of user stories for FitnessFriend
 
 ## Current Features
 
-These are features that are currently implemented in FitHub, and which feature on the landing page.
+These are features that are currently implemented in FitnessFriend, and which feature on the landing page.
 
 ### Illustrated Features
 
